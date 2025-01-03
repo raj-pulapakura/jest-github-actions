@@ -34,8 +34,8 @@ class Todo {
     }
 
     clear() {
-        // this.tasks = [];
-        // this.length = 0;
+        this.tasks = [];
+        this.length = 0;
     }
 }
 
